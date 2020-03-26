@@ -1,11 +1,11 @@
 # depslib dependency file v1.0
-1585173361 source:c:\users\adrian\desktop\tema_poo\133catrinoiuadriantema10\main.cpp
+1585180831 source:c:\users\adrian\desktop\tema_poo\133catrinoiuadriantema10\main.cpp
 	<iostream>
 	<Lista_dublu_inlantuita.h>
 
-1585173080 c:\users\adrian\desktop\tema_poo\133catrinoiuadriantema10\include\lista_dublu_inlantuita.h
+1585180885 c:\users\adrian\desktop\tema_poo\133catrinoiuadriantema10\include\lista_dublu_inlantuita.h
 	<iostream>
 
-1585173199 source:c:\users\adrian\desktop\tema_poo\133catrinoiuadriantema10\src\lista_dublu_inlantuita.cpp
+1585180694 source:c:\users\adrian\desktop\tema_poo\133catrinoiuadriantema10\src\lista_dublu_inlantuita.cpp
 	"Lista_dublu_inlantuita.h"
 
